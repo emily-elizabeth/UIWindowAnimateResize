@@ -1,5 +1,5 @@
 ﻿script "UIWindowAnimateResize"
-// converted from stackoverflow[DOT]com/questions/1769317/animate-window-resize-width-and-height-c-sharp-wpf
+// converted from stackoverflow.com/questions/1769317/animate-window-resize-width-and-height-c-sharp-wpf
 
 
 local mNewWidth
