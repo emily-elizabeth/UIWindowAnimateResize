@@ -2,8 +2,7 @@
  Sets the size of the window with animation
 
 ## Availability
- Linux, macOS and Windows  
- Xojo 2021r3.1 or greater
+ Xojo 2021r3.1 or greater  
  LiveCode 9.0.0 or greater
 
 ## Usage
