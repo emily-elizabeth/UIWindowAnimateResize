@@ -26,9 +26,9 @@ on UIWindowAnimateResize winID, newWidth, newHeight
 end UIWindowAnimateResize
 
 
-on UIWindowAnimateResizeStop
+on UIWindowAnimateResizeCancel
    cancel mAnimateResizeMessageID
-end UIWindowAnimateResizeStop
+end UIWindowAnimateResizeCancel
 
 
 on UIWindowAnimateResizeTick
