@@ -3,7 +3,6 @@
 
 ## Availability
  Xojo 2021r3.1 or greater  
- LiveCode 9.0.0 or greater
 
 ## Usage
  UIWindowAnimateResize _window, width, height_  
